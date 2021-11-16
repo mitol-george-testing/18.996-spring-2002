@@ -1,0 +1,45 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Engineering",
+      "Electrical Engineering",
+      "Telecommunications"
+    ],
+    [
+      "Engineering",
+      "Computer Science",
+      "Theory of Computation"
+    ],
+    [
+      "Engineering",
+      "Computer Science",
+      "Algorithms and Data Structures"
+    ],
+    [
+      "Engineering",
+      "Computer Science",
+      "Computer Networks"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "d9252350-8553-0549-3081-ef945254cc45",
+      "fe96e02b-b853-b0ca-574c-de64f27484b8",
+      "965d538c-017d-0b6f-65f9-b8bdeca7a93e",
+      "5e8f0f98-cdfd-2d3c-7f40-ebf29943d7e0"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Topics in Theoretical Computer Science : Internet Research Problems",
+  "course_description": "We will discuss numerous research problems that are related to the internet. Sample topics include: routing algorithms such as BGP, communication protocols such as TCP, algorithms for intelligently selecting a resource in the face of uncertainty, bandwidth sensing tools, load balancing algorithms, streaming protocols, determining the structure of the internet, cost optimization, DNS-related problems, visualization, and large-scale data processing. The seminar is intended for students who are ready to work on challenging research problems. Each lecture will discuss:\n\n*   methods used today\n*   issues and problems\n*   formulation of concrete problems\n*   potential new lines of research\n\nA modest amount of background information will be provided so that the importance and context of the problems can be understood. No previous study of the internet is required, but experience with algorithms and/or theoretical computer science at the graduate/research level is needed.\n",
+  "department_numbers": [
+    "18"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "18.996",
+  "learning_resource_types": [
+    "Lecture Notes"
+  ],
+  "title": "Course Metadata"
+}
